@@ -1,6 +1,5 @@
 📊 Análisis de Ventas - Power BI
-Proyecto de análisis de ventas utilizando Power BI y Power Query basado en una base de datos simulada de clientes.
-
+Este proyecto consiste en el análisis de una base de datos de facturación de clientes durante un año, con el objetivo de identificar patrones de ventas, rentabilidad y comportamiento por canal, producto y ubicación geográfica.
 **Herramientas**
 Power BI
 Power Query
